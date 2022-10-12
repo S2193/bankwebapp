@@ -8,7 +8,7 @@
   <body>
 	<%@include file="header.jsp" %>
 
-	<div class="welcome">
+	<div class="Welcome">
 		<c:if test="${not empty req_msg}">
 			<h1 style="text-align: center;padding-top: 150px;">${req_msg}</h1>
 		</c:if>
