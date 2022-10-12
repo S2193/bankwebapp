@@ -1,4 +1,5 @@
 <html>
+<BODY bgcolor=pink>
 <head>
 <title>Redirecting...</title>
 </head>
