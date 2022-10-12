@@ -6,7 +6,7 @@
 Redirecting. Please wait...
 
 <%
-   response.sendRedirect("welcome");
+   response.sendRedirect("Hello, welcome");
 %>
 </body>
 </html>
